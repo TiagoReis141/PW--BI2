@@ -4,7 +4,7 @@
             "id": 1,
             "firstName": "Tiago",
             "lastName": "Reis",
-            "avatar": "https://i.prvatar.cc/150?img=1",
+            "avatar": "https://i.pravatar.cc/150?img=1",
             "adress": "Rua A, 123",
             "email": "tclreis@gmail.com"
         },
@@ -12,9 +12,73 @@
             "id": 2,
             "firstName": "Felipe",
             "lastName": "Cantanhede",
-            "avatar": "https://i.privatar.cc/150?img=2",
+            "avatar": "https://i.pravatar.cc/150?img=2",
             "adress": "Rua B, 124",
             "email": "felope@gmail.com"
+        },
+        {
+            "id": 3,
+            "firstName": "Gustavo",
+            "lastName": "Pietro",
+            "avatar": "https://i.pravatar.cc/150?img=3",
+            "adress": "Rua C, 125",
+            "email": "gusta@gmail.com"
+        },
+        {
+            "id": 4,
+            "firstName": "Matheus",
+            "lastName": "Arrabal",
+            "avatar": "https://i.pravatar.cc/150?img=4",
+            "adress": "Rua D, 126",
+            "email": "Arraial@gmail.com"
+        },
+        {
+            "id": 5,
+            "firstName": "Giovanni",
+            "lastName": "Gamis",
+            "avatar": "https://i.pravatar.cc/150?img=5",
+            "adress": "Rua E, 127",
+            "email": "gio@gmail.com"
+        },
+        {
+            "id": 6,
+            "firstName": "Leonardo",
+            "lastName": "Guerra",
+            "avatar": "https://i.pravatar.cc/150?img=6",
+            "adress": "Rua F, 128",
+            "email": "war@gmail.com"
+        },
+        {
+            "id": 7,
+            "firstName": "Pedro",
+            "lastName": "Fonseca",
+            "avatar": "https://i.pravatar.cc/150?img=7",
+            "adress": "Rua G, 129",
+            "email": "pijas@gmail.com"
+        },
+        {
+            "id": 8,
+            "firstName": "Vitor",
+            "lastName": "Hideki",
+            "avatar": "https://i.pravatar.cc/150?img=8",
+            "adress": "Rua H, 130",
+            "email": "hideki@gmail.com"
+        },
+        {
+            "id": 9,
+            "firstName": "Games",
+            "lastName": "Edu",
+            "avatar": "https://i.pravatar.cc/150?img=9",
+            "adress": "Rua I, 131",
+            "email": "games@gmail.com"
+        },
+        {
+            "id": 10,
+            "firstName": "Caroline",
+            "lastName": "Rocha",
+            "avatar": "https://i.pravatar.cc/150?img=10",
+            "adress": "Rua J, 132",
+            "email": "ferraz@gmail.com"
         }
     ]
 }
